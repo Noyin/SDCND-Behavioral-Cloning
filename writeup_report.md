@@ -19,8 +19,8 @@ The goals / steps of this project are the following:
 
 ---
 My project includes the following files:
-* [model.py](./model.py) containing the script to create and train the model
-* [drive.py](./drive.py) for driving the car in autonomous mode
+* [model.py](https://github.com/Noyin/SDCND-Behavioral-Cloning/blob/master/model.py) containing the script to create and train the model
+* [drive.py](https://github.com/Noyin/SDCND-Behavioral-Cloning/blob/master/drive.py) for driving the car in autonomous mode
 * video.mp4 showing car driving in autonomous mode
 * model.h5 containing a trained convolution neural network 
 * writeup_report.md summarizing the results
@@ -128,9 +128,6 @@ The final model architecture (model.py lines 139-150) consists of a convolution 
 | Dense         		| outputs 1x84        						      |
 | Dense  				| output 1        								  |
 
-
-[//]: <Here is a visualization of the architecture:>
-[//]: <[alt text][image1]>
 
 **3. Creation of the Training Set & Training Process**
 
